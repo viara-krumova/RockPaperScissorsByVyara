@@ -12,3 +12,7 @@ The player enters one of the following options:
 | rock | paper | You lose |
 | rock | scissors | You win |
 | paper | rock | You win |
+
+[Source Code](rock_paper_scissors.py)
+
+
