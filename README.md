@@ -20,4 +20,4 @@ The player enters one of the following options:
 ![изображение](https://github.com/viara-krumova/RockPaperScissorsByVyara/assets/145583895/379d7049-0cdf-4312-9041-749d1d8d865d)
 ### Live Demo
 You can play the game directly in your Web browser here:.
-[[<img alt ="Play Button" src = "https://replit.com/join/vnkewmgblr-viarakrumova# main.py"/>]](https://replit.com/join/hmevgwygje-viarakrumova)
+[[<img alt ="Play Button" />]](https://replit.com/join/hmevgwygje-viarakrumova)
